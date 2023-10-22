@@ -832,5 +832,25 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
     grid-column: none;
   }
 }
+th {
+  padding: 0.5em 0;
+}
+
+td {
+  padding: 0.2em 0.5em;
+}
+
+table {
+  width: 100%;
+  max-width: 100%;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid;
+}
 
 /*# sourceMappingURL=main.css.map */
